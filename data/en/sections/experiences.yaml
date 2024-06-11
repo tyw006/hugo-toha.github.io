@@ -11,63 +11,53 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Beam Data
+    url: "https://beamdata.ai/"
+    location: Remote
+    logo: /images/sections/experiences/beamdata.jpg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Beam Data is a consulting service providing data analytics, machine learning, and AI solutions.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Machine Learning Engineer
+    start: Oct 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Contracted to design, develop, and deploy a RAG-based Chatbot for Fortune 500 client. 
+    - Led team in research and development of both frontend and backend components.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Applied Materials
+    url: "https://www.appliedmaterials.com/"
+    location: Austin, TX
+    logo: /images/sections/experiences/amat.jpg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Applied Materials is a semiconductor equipment manufacturer that provides a variety of related services.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Scientist
+    start: May 2020
+    # end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Using LLMs to enhance database for corrective maintenance on customer equipment.
+    - Building machine learning models to predict failures of on-wafer metrics.
+    - Providing data-driven insights to optimize customer equipment performance.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Samsung Austin Semiconductor
+    url: "https://semiconductor.samsung.com/us/sas/"
+    location: Austin, TX
+    logo: /images/sections/experiences/samsung.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Samsung Austin Semiconductor is a foundry that produces chips for the semiconductor industry.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Equipment Engineer
+    start: May 2020
+    end: May 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Using data analytics and visualization to develop plans to respond to equipment issues.
+    - Designing hardware and experiments to qualify improvement projects.
