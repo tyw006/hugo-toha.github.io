@@ -1,4 +1,4 @@
-baseURL: https://timwang.github.io
+baseURL: https://timwang00.netlify.app
 
 languageCode: en
 title: "Tim Wang's Portfolio"
@@ -187,7 +187,7 @@ params:
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
