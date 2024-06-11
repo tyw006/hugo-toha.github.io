@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Tim Wang's Blog and portfolio
+  title: Tim Wang's Blog and Portfolio
   type: website
-  description: Portfolio and personal blog of John Doe.
+  description: Portfolio and personal blog of  Tim Wang
   image: images/author/profilephoto1.png
-  url: https://timwang.github.io
+  url: https://tyw006.github.io
